@@ -19,11 +19,11 @@ color: white;
 }
 a {
 text-decoration: underline;
+  color: white;
+  font-weight: bold;
 }
 table, th, td, tr {
 border: 2px solid blue;
-color: white;
-  font-weight: bold;
 }
 ol, ul, li {
 color: green;
