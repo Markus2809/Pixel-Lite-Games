@@ -22,6 +22,8 @@ text-decoration: underline;
 }
 table, th, td, tr {
 border: 2px solid blue;
+color: white;
+  font-weight: bold;
 }
 ol, ul, li {
 color: green;
