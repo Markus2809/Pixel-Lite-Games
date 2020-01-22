@@ -2,7 +2,7 @@ html {
   cursor: crosshair;
 }
 body {
-background:-moz-linear-gradient(DeepSkyBlue, Black);
+background-color: black;
 }
 h1 {
   text-decoration: underline;
