@@ -4,9 +4,20 @@
 <title>PLG Home</title>
 </head>
 <style>
-body {
-   color: white;  
-   background-image: linear-gradient(down, red, orange, yellow, green, blue, purple);
+body { 
+   background-color: black;
+   color: white;
+   animation-name: colorchange;
+   animation-duration: 6s;
+   animation-iteration-count: infinite;
+   @keyframes color{
+   0%  {color: red;}
+   20% {color: orange;}
+   40%  {color: yellow;}
+   60% {color: green;}
+   80%  {color: blue;}
+   100% {color: purple;}
+}
 }
 <body>
 <h1>Pixel Lite Games</h1>
